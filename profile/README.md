@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syntaxcommunity&label=Profile%20views&color=0497c8&style=plastic" alt="syntaxcommunitY" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syntaxtels" alt="syntaxcommunity" /></a> </p>
-
 - 🤝 Menerima Kerjasama, Event maupun Workshop [Klik Disini](https://instagram.com/syntx.id)
 
 - 💬 Tanyakan saya tentang **Semua hal tentang programming**
@@ -25,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syntaxtels&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="syntaxcommunity" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syntaxtels&show_icons=true&theme=merko&locale=en" alt="syntaxcommunity" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syntaxtels&" alt="syntaxcommunity" /></p>
