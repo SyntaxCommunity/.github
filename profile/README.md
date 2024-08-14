@@ -5,13 +5,13 @@
 
 - 🤝 Menerima Kerjasama, Event maupun Workshop [Klik Disini](https://instagram.com/syntx.id)
 
-- 💬 Tanyakan saya tentang **Semua hal tentang programming**
+- 💬 Tanyakan kami tentang **Semua hal tentang programming**
 
-- 📫 Hubungi saya **mail@syntx.id**
+- 📫 Hubungi kami **mail@syntx.id**
 
 - ⚡ Join Discord **[Klik Disini]**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://instagram.com/syntx.id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syntx.id" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@SyntaxCommunity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@syntaxcommunity" height="30" width="40" /></a>
