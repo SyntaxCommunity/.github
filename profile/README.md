@@ -1,5 +1,5 @@
-## <p style="display: flex; justify-content: center; text-align: center; margin-right: auto; margin-left: auto;">**SYNTAX COMMUNITY**</p>
-<h3 align="center">Syntax Community adalah sebuah ekstrakurikuler dan sekaligus organisasi yang dimiliki oleh sekolah SMK Telekomunikasi Telesandi Bekasi sejak tahun 2014.</h3>
+## <p style="width: 100dvw; display: flex; justify-content: center; text-align: center; margin-right: auto; margin-left: auto;">**SYNTAX CREATIVE**</p>
+<h3 align="center">Syntax adalah sebuah ekstrakurikuler dan sekaligus organisasi yang dimiliki oleh sekolah SMK Telekomunikasi Telesandi Bekasi sejak tahun 2014.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syntaxcommunity&label=Profile%20views&color=0497c8&style=plastic" alt="syntaxcommunitY" /> </p>
 
